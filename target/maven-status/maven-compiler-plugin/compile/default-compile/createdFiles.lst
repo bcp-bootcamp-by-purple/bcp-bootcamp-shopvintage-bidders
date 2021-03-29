@@ -1,0 +1,10 @@
+com/bcp/bootcamp/shopvintage/bidders/web/controllers/BiddersController.class
+com/bcp/bootcamp/shopvintage/bidders/BiddersApplication.class
+com/bcp/bootcamp/shopvintage/bidders/persistence/repositories/BidderTypesRepository.class
+com/bcp/bootcamp/shopvintage/bidders/persistence/entities/Bidders.class
+com/bcp/bootcamp/shopvintage/bidders/application/services/impl/BiddersApplicationServiceImpl.class
+com/bcp/bootcamp/shopvintage/bidders/application/services/BidderTypesApplicationService.class
+com/bcp/bootcamp/shopvintage/bidders/application/services/impl/BidderTypesApplicationServiceImpl.class
+com/bcp/bootcamp/shopvintage/bidders/persistence/entities/BidderType.class
+com/bcp/bootcamp/shopvintage/bidders/persistence/repositories/BiddersRepository.class
+com/bcp/bootcamp/shopvintage/bidders/application/services/BiddersApplicationService.class
