@@ -1,0 +1,10 @@
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/persistence/repositories/BiddersRepository.java
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/persistence/repositories/BidderTypesRepository.java
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/application/services/impl/BiddersApplicationServiceImpl.java
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/persistence/entities/BidderType.java
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/web/controllers/BiddersController.java
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/application/services/impl/BidderTypesApplicationServiceImpl.java
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/application/services/BidderTypesApplicationService.java
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/BiddersApplication.java
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/persistence/entities/Bidders.java
+/Users/alfredobenaute/bootcamp-abril/bcp-bootcamp-shopvintage-bidders/src/main/java/com/bcp/bootcamp/shopvintage/bidders/application/services/BiddersApplicationService.java
