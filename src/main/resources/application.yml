@@ -25,8 +25,9 @@ spring:
   application:
     name: bcp-shopvintage-bidders
   config:
-    import: optional:configserver:http://ip172-18-0-13-c1nmrc8h550g00dqjmu0-8888.direct.labs.play-with-docker.com
-    #    import: optional:configserver:http://localhost:8888
+    import: optional:configserver:http://localhost:8888
+#    import: optional:configserver:http://ip172-18-0-13-c1nmrc8h550g00dqjmu0-8888.direct.labs.play-with-docker.com
+
 
 #
 #  datasource:
